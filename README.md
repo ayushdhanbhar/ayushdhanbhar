@@ -46,40 +46,11 @@
 
 ---
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com/?size=26&center=true&vCenter=true&width=360&height=160&color=00E5FF&lines=CODE;BUILD;DEBUG;REPEAT" 
-  />
-</p>
-
----
-
 ## 🛠️ Tools & Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=android,aws,docker,figma,firebase,mongodb,mysql,git,linux" />
 </p>
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ayushdhanbhar&show_icons=true&theme=tokyonight&cache_seconds=1800" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=ayushdhanbhar&theme=tokyonight" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdhanbhar&layout=compact&theme=tokyonight" 
-  />
-</p>
 
 ---
 
