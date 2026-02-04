@@ -8,7 +8,6 @@
     src="https://readme-typing-svg.herokuapp.com/?size=22&center=true&vCenter=true&width=700&height=40&color=FFD700&lines=%F0%9F%9A%80+Passionate+Developer+%7C+%F0%9F%92%A1+Lifelong+Learner" />
 </p>
 
-
 <h3 align="center">👏 I Love Coding 👏</h3>
 
 <p align="center">
@@ -47,6 +46,14 @@
 
 ---
 
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?size=26&center=true&vCenter=true&width=360&height=160&color=00E5FF&lines=CODE;BUILD;DEBUG;REPEAT" 
+  />
+</p>
+
+---
+
 ## 🛠️ Tools & Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=android,aws,docker,figma,firebase,mongodb,mysql,git,linux" />
@@ -55,21 +62,29 @@
 ---
 
 ## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushdhanbhar&show_icons=true&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ayushdhanbhar&show_icons=true&theme=tokyonight&cache_seconds=1800" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushdhanbhar&theme=tokyonight" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=ayushdhanbhar&theme=tokyonight" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdhanbhar&layout=donut&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdhanbhar&layout=compact&theme=tokyonight" 
+  />
 </p>
 
 ---
 
-## 🎯 Detailed Analytics (Dynamic)
+## 🎯 Detailed Analytics
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushdhanbhar&theme=tokyonight" />
 </p>
