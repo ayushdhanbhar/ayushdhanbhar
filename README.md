@@ -1,8 +1,13 @@
-<h1 align="center" style="color:#FFA500;">Hey there 👋</h1>
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?size=40&center=true&vCenter=true&width=500&height=60&color=FFFFFF&bold=true&lines=Hey+there+%F0%9F%91%8B" />
+</h1>
 
 <p align="center">
-  🚀 <b>Passionate Developer</b> &nbsp; | &nbsp; 💡 Lifelong Learner
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?size=22&center=true&vCenter=true&width=700&height=40&color=FFD700&lines=%F0%9F%9A%80+Passionate+Developer+%7C+%F0%9F%92%A1+Lifelong+Learner" />
 </p>
+
 
 <h3 align="center">👏 I Love Coding 👏</h3>
 
